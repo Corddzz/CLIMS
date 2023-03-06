@@ -1,0 +1,10 @@
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\x86\Debug\ComLabISMS.frmAddBorRet.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\x86\Debug\ComLabISMS.frmBorRet.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\x86\Debug\ComLabISMS.frmInventory.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\x86\Debug\ComLabISMS.frmMain.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\x86\Debug\ComLabISMS.frmRepair.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\x86\Debug\ComLabISMS.frmReports.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\x86\Debug\ComLabISMS.frmServices.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\x86\Debug\ComLabISMS.Resources.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\x86\Debug\ComLabISMS.vbproj.GenerateResource.Cache

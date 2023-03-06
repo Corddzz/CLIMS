@@ -1,0 +1,357 @@
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.exe
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.pdb
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.xml
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.Resources.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.vbproj.GenerateResource.Cache
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmMain.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServices.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorRet.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddBorRet.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmReports.resources
+C:\Users\leonh\Documents\Visual Studio 2008\Projects\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmInventory.resources
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+E:\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.exe
+E:\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.pdb
+E:\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.xml
+E:\ComLabISMS\ComLabISMS\obj\Debug\ResolveAssemblyReference.cache
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddBorRet.resources
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorRet.resources
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmInventory.resources
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmMain.resources
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair.resources
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmReports.resources
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServices.resources
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.Resources.resources
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.vbproj.GenerateResource.Cache
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddInv.resources
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddServ.resources
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+F:\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.exe
+F:\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.pdb
+F:\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.xml
+F:\ComLabISMS\ComLabISMS\obj\Debug\ResolveAssemblyReference.cache
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddBorRet.resources
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddInv.resources
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddServ.resources
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorRet.resources
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmInventory.resources
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmLogin.resources
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmMain.resources
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair.resources
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmReports.resources
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServices.resources
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.Resources.resources
+F:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.vbproj.GenerateResource.Cache
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmLogin.resources
+E:\ComLabISMS\ComLabISMS\bin\Debug\MySql.Data.dll
+E:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.tblborretreports.resources
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+D:\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.exe
+D:\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.pdb
+D:\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.xml
+D:\ComLabISMS\ComLabISMS\bin\Debug\MySql.Data.dll
+D:\ComLabISMS\ComLabISMS\obj\Debug\ResolveAssemblyReference.cache
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddBorRet.resources
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddInv.resources
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddServ.resources
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorRet.resources
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmInventory.resources
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmLogin.resources
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmMain.resources
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair.resources
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmReports.resources
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServices.resources
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.Resources.resources
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.tblborretreports.resources
+D:\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.vbproj.GenerateResource.Cache
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.exe
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.pdb
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.xml
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ResolveAssemblyReference.cache
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddBorRet.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddInv.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddServ.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorRet.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmInventory.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmLogin.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmMain.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmReports.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServices.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.Resources.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.tblborretreports.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.vbproj.GenerateResource.Cache
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.exe
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.pdb
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.xml
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddBorRet.resources
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmItems1.resources
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddInv.resources
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddServ.resources
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorRet.resources
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmInventory.resources
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmLogin.resources
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair.resources
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmReports.resources
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServices.resources
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmNewInv.resources
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmMain.resources
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.Resources.resources
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.tblborretreports.resources
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.vbproj.GenerateResource.Cache
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+C:\Users\leonh\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.exe
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.pdb
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.xml
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ResolveAssemblyReference.cache
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddBorRet.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmItems1.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddInv.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddServ.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorRet.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmInventory.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmLogin.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmReports.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServices.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmMain.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.Resources.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.tblborretreports.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.vbproj.GenerateResource.Cache
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmItems1.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmComputers.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrowItem.resources
+F:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrow.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrowItem.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmComputers.resources
+E:\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrow.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrowItem.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddBorRet.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmItems1.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmComputers.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddInv.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddServ.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorRet.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmInventory.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmLogin.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmReports.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServices.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrow.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmMain.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.Resources.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.tblborretreports.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.vbproj.GenerateResource.Cache
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.exe
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.pdb
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.xml
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.transactions.resources
+C:\Users\College Faculty\Desktop\THESIS JAN 10 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.transaction_details.resources
+E:\LEONHEIL CORDERO\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+E:\LEONHEIL CORDERO\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+E:\LEONHEIL CORDERO\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.exe
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.pdb
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.xml
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrowItem.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddBorRet.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmItems1.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddInv.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddServ.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorRet.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmInventory.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmLogin.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmReports.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServices.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrow.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.transactions.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.transaction_details.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmMain.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.Resources.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.tblborretreports.resources
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.vbproj.GenerateResource.Cache
+C:\Users\leonh\Desktop\THESIS JAN 21 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmUsers.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.exe
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.pdb
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.xml
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrowItem.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddBorRet.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmItems1.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmUsers.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddInv.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddServ.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorRet.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmInventory.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmLogin.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmReports.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServices.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrow.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.transactions.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.transaction_details.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmMain.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.Resources.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.tblborretreports.resources
+C:\Users\College Faculty\Desktop\THESIS FEB 2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.vbproj.GenerateResource.Cache
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.exe
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.pdb
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.xml
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ResolveAssemblyReference.cache
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrowItem.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddBorRet.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmItems1.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmUsers.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddInv.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddServ.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorRet.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmInventory.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmLogin.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmReports.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServices.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrow.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.transactions.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.transaction_details.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmMain.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.Resources.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.tblborretreports.resources
+E:\LEONHEIL CORDERO\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.vbproj.GenerateResource.Cache
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServ.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrowItem.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddBorRet.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmItems1.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmUsers.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddInv.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddServ.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorRet.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmInventory.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmLogin.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmReports.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServices.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrow.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.transactions.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.transaction_details.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmMain.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.Resources.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.tblborretreports.resources
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.vbproj.GenerateResource.Cache
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.exe
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.pdb
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.xml
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\bin\Debug\MySql.Data.dll
+C:\Users\leonh\Desktop\THESIS FEB 3 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair2.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.exe
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.pdb
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.xml
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\bin\Debug\MySql.Data.dll
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair2.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServ.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrowItem.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddBorRet.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmItems1.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmUsers.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddInv.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddServ.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmInventory.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmLogin.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorret.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmReports.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServices.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrow.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.transactions.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.transaction_details.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmMain.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.Resources.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.tblborretreports.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.vbproj.GenerateResource.Cache
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmListOfItems.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmComInv.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmTechOff.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmSpeechLab.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmComLab3.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmComLab2.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmComLab1.resources
+C:\Users\leonh\Desktop\THESIS FEB 19 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddComInv.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.exe
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.xml
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.pdb
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.exe
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.pdb
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\bin\Debug\ComLabISMS.xml
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\bin\Debug\MySql.Data.dll
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmListOfItems.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmTechOff.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmSpeechLab.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmComLab3.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmComLab2.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmComLab1.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddComInv.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmComInv.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair2.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServ.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrowItem.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddBorRet.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmItems1.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmUsers.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddInv.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmAddServ.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmInventory.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmLogin.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorret.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmRepair.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmReports.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmServices.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmBorrow.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.transactions.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.transaction_details.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.frmMain.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.Resources.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.tblborretreports.resources
+C:\Users\leonh\Desktop\THESIS 3-2 2023\ComLabISMS\ComLabISMS\obj\Debug\ComLabISMS.vbproj.GenerateResource.Cache
